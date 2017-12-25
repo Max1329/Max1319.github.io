@@ -1,0 +1,24 @@
+a:link {color:#28aae2;}
+a:visited {color:#28aae2;}
+a:hover {color:#28aae2;}
+a:active {color:#28aae2;}
+.Wp-Body-P
+{
+    margin:0.0px 0.0px 12.0px 0.0px; text-align:left; font-weight:400;
+}
+.Wp-Normal-P
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:left; font-weight:400;
+}
+.Wp-Table-Body-P
+{
+    margin:0.0px 0.0px 12.0px 0.0px; text-align:left; font-weight:400;
+}
+.Wp-Default-Paragraph-Font-C
+{
+    font-family:"Verdana", sans-serif;
+}
+.Wp-Hyperlink-C
+{
+    font-family:"Verdana", sans-serif; color:#0000ff; text-decoration:underline;
+}
